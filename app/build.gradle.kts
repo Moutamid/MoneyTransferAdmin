@@ -34,7 +34,7 @@ android {
 dependencies {
     implementation("com.google.firebase:firebase-database:20.3.0")
 
-    implementation("com.fxn769:stash:1.3.2")
+    implementation("com.github.akshay2211:Stash:1c45b0e5d5")
     implementation("com.hbb20:ccp:2.7.0")
 
     implementation("androidx.appcompat:appcompat:1.6.1")
